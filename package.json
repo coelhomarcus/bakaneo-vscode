@@ -1,9 +1,10 @@
 {
   "name": "bakaneo",
   "displayName": "BakaNeo",
-  "description": "BakaNeo. A dark theme for visual studio code.",
+  "description": "A dark theme for visual studio code.",
   "publisher": "coelhomarcus",
-  "version": "1.1.0",
+  "repository": {"url": "git+https://github.com/coelhomarcus/bakaneo-vscode-theme"},
+  "version": "1.1.1",
   "engines": {
     "vscode": "^1.96.0"
   },

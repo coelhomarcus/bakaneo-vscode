@@ -50,15 +50,15 @@
 	  "activityBarBadge.foreground": "#131313",
 	  "sideBar.background": "#131313",
 	  "sideBar.foreground": "#888888",
-	  "sideBar.border": "#131313",
+	  "sideBar.border": "#242424",
 	  "sideBarTitle.foreground": "#555555",
 	  "sideBarSectionHeader.background": "#131313",
 	  "sideBarSectionHeader.foreground": "#666666",
-	  "editorGroup.border": "#131313",
+	  "editorGroup.border": "#242424",
 	  "editorGroup.dropBackground": "#131313bb",
 	  "editorGroupHeader.noTabsBackground": "#131313",
 	  "editorGroupHeader.tabsBackground": "#131313",
-	  "editorGroupHeader.tabsBorder": "#131313",
+	  "editorGroupHeader.tabsBorder": "#242424",
 	  "tab.activeBackground": "#131313",
 	  "tab.unfocusedActiveBorder": "#888888",
 	  "tab.border": "#131313",
@@ -361,7 +361,7 @@
 		  "meta.at-rule.keyframes entity.other.attribute-name"
 		],
 		"settings": {
-		  "foreground": "#6df7c1"
+		  "foreground": "#b1ff32"
 		}
 	  },
 	  {
@@ -395,7 +395,7 @@
 		],
 		"settings": {
 		  "fontStyle": "",
-		  "foreground": "#e8e8fc"
+		  "foreground": "#b2ffe1"
 		}
 	  },
 	  {
