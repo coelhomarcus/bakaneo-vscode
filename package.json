@@ -4,7 +4,7 @@
   "description": "A dark theme for visual studio code.",
   "publisher": "coelhomarcus",
   "repository": {"url": "git+https://github.com/coelhomarcus/bakaneo-vscode-theme"},
-  "version": "1.1.3",
+  "version": "1.1.4",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -16,8 +16,7 @@
     "theme",
     "color-theme",
     "dark",
-    "bakaneo",
-    "BakaNeo"
+    "bakaneo"
   ],
   "contributes": {
     "themes": [
